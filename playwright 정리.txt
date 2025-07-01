@@ -1,0 +1,29 @@
+playwright 정리
+
+
+
+
+page.waitForTimeout(1000);
+
+// 연동상품 모달 보이면 더블클릭
+  const redParagraph = page.getByRole('paragraph').filter({ hasText: '아래 서비스들에서 해당 버킷을 이용하고 있습니다' });
+
+  if (await redParagraph.count() > 0 && await redParagraph.first().isVisible()) {
+    await page.getByRole('button', { name: '다음' }).click();
+  } else {}
+
+
+// 모달의 드롭다운 박스 선택
+  await page.locator('button.btn.dropdown-toggle.selection-button.line-2.btn-md.w-full').click();
+
+  // 찾고자하는 버킷명 클릭
+  await page.locator('#mCSB_9_container .dropdown-item', { hasText: `${bucketName}` }).click();
+
+
+
+
+---- obs ----
+1. 아래 리전 베타에서 접근 제어 확인 불가
+ - sg, jp
+
+2. jp 리전은 로그 관리 따로 개발

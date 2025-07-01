@@ -1,0 +1,300 @@
+{
+  "cookies": [
+    {
+      "name": "ncp_locale",
+      "value": "ko_KR",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ncp_lang",
+      "value": "ko-KR",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": 1759980276.286916,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ignoreFrom",
+      "value": "",
+      "domain": ".auth.gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ncp_nnb",
+      "value": "U2FsdGVkX1%2BlKh1JFXhoed2Ew2Paciqjgoyn21%2FzmvuAg17P45E2Z9wbvdM3O2qjGH20T12ahSSxvsG3YTF5ijHU0FaNb%2FzcY1TQ6LvpeMoqEBqpfKdG%2FpEcnv8pG2Db",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": 1785900276.915088,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NNB",
+      "value": "FLOGGUXUKRRWQ",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1785900287.657409,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "9917E520163F415BE057DEE5D84911AA",
+      "domain": "auth.gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SESSION",
+      "value": "N2FjNGNiOTYtNGM2ZS00MGE5LTg3ZGEtZGE0YzVlODM5NjU1",
+      "domain": "auth.gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BUC",
+      "value": "BT5Ro7pdmfWuUzxoKUIoudmPnP9QdjVj-v79Ai_cVE0=",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1785900287.657469,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ncp",
+      "value": "\"kIMXhDBGk3mKPHmLuJ41QnNFdyyA7Gj3Vi3sV0U0R8Nk6RQjxWVNr1tdLRRRF7f2IjRayTvqNafhg66NtWLk12iCgU2vD2DxZ2tqf3omP6PM1rUtZN4pblyEzuWTreX8bX0sb2e1hCd0dXgMe3U16tnufc6bbK5FVTVATCQxuDHzvXWxuo2+AwzkPxAPMfOUwdGfTNr1buEb5lxJZLg1qAuJRR4TUK83v2/h6KFH7cnT8JS3iHrYXDZywyziU2EEsHI/36z4BdziV3TCQ5KfYqd1n/6I2Nhr5jzF3RoVdFUxY4D3rs2bast/PhLTQlI2DvbQ7j3OQDQa+KV+avp9wVDsz9sWADh0yejcAuPcpovGzItCGYo3gYRlNTwJLPvGLdAXr86uouSAZ1iwxElW7kclTrsT5H4sSgxOCGOPxjxXNEC5jUU7j4IdY3KLH2tu\"",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ncp_version",
+      "value": "v2",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fwb",
+      "value": "12VwnxKqAs6CMZhdmmIaBa.1751340303611",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": 1785900304.074301,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NWB",
+      "value": "3a12e593d09ffbfdbd61bb31e6703cc3.1751340303426",
+      "domain": ".wcs.naver.com",
+      "path": "/",
+      "expires": 1785900304.507727,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NAC",
+      "value": "erChDYhAkNKMA",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1785900303.868813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "6968006031DA332430ED12C2326B7220",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_beu_utm_source",
+      "value": "__null__",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_beu_utm_medium",
+      "value": "__null__",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_beu_utm_campaign",
+      "value": "__null__",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_beu_utm_term",
+      "value": "__null__",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_beu_utm_content",
+      "value": "__null__",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rtetUrl",
+      "value": "https%3A%2F%2Fwww.gov-ncloud.com%2F",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rtetSessId",
+      "value": "aBJ0mXR33",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rtetSessPageSeq",
+      "value": "0",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1751342104,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wcs_bt",
+      "value": "a78114d3c80f6c:1751340304",
+      "domain": "www.gov-ncloud.com",
+      "path": "/",
+      "expires": 1785900304.492143,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ncp_region",
+      "value": "KR",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": 1759980305.673734,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ncp_platform",
+      "value": "VPC",
+      "domain": ".gov-ncloud.com",
+      "path": "/",
+      "expires": 1760012708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "A0F369F066F5F38A9694328A04EE4870",
+      "domain": "console.gov-ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.gov-ncloud.com",
+      "localStorage": [
+        {
+          "name": "NACT",
+          "value": "1751340303871"
+        },
+        {
+          "name": "NAC",
+          "value": "erChDYhAkNKMA"
+        },
+        {
+          "name": "_rtetUserId",
+          "value": "[{\"path\":\"/\",\"uid\":\"ceqBcBd07\"}]"
+        },
+        {
+          "name": "NA_NACC",
+          "value": "erChDYhAkNKMA"
+        }
+      ]
+    },
+    {
+      "origin": "https://console.gov-ncloud.com",
+      "localStorage": [
+        {
+          "name": "136fad30-2876-11eb-9e6d-a0369fafc598-welcome",
+          "value": "true"
+        },
+        {
+          "name": "136fad30-2876-11eb-9e6d-a0369fafc598",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}

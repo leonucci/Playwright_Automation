@@ -1,0 +1,189 @@
+{
+  "cookies": [
+    {
+      "name": "ncp_locale",
+      "value": "ko_KR",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ncp_lang",
+      "value": "ko-KR",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1759647288.341801,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ignoreFrom",
+      "value": "",
+      "domain": ".beta-auth.ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ncp_nnb",
+      "value": "U2FsdGVkX19DTMJ7LwvJoQVM%2Fj4Fn6bIRFqqj59Dhy%2FIZnig7lq%2BrKw4FiHOdJOVYm0KbOx40yM%2F7aD2tOb%2BooM5x2cpWxp3X9%2B05%2BLw6CDQsSf9CXR35%2BFClS98THZ2",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1785567289.000436,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1067497577.1751007289",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1785567321.297559,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NNB",
+      "value": "ZNDLASZZIBPGQ",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1785567299.966551,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "800B8DCD5BBA79ACD41A0573A6AB9C9F",
+      "domain": "beta-auth.ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SESSION",
+      "value": "ZDQwODcyYjQtMDcyZS00MDdkLWE2NTItZGZjNmYzNGI0MDNm",
+      "domain": "beta-auth.ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BUC",
+      "value": "9KVIviQmnc_C6H92CkjyTEtITGDFCM91rwWzEuKxWtA=",
+      "domain": ".naver.com",
+      "path": "/",
+      "expires": 1785567299.966688,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ncp_beta",
+      "value": "\"fQzmeDY6nkPxxEN/CLGqmhfNh8TTY7M7wN+R+BXnpX+rP8TFIDLwCAkqrzqDvONrja9gh90Di/qv1jRKMafmhIBjDacDxi8BkPqA0xBvX9Ai1bb0k/qcJjQoh+VG2fTi9OuMRNGZ8rl/7LFFLSBGZkCYwhuDpQGNhBsLGfz7zavVxW6ffULGaNJsovU/Oq9SfkbqMg/nDP1psWdi5XvzP4oUmB4C0DAkK5zfXECuw3x1FQnrj77AW1mgi1zjRcnTJ1v3mA2e2Qk9b5wRyB3kqfch3G8u8ZCF0MYQ1F9aDToh0aw8Hy4S4CBbd9jHKZk7pFZUC+JFh+4Jo5Ou6yXcAPXGb5j1dLTl4iKFxJLEsNz11WTOOTd1g8akRGLlKb5hrjVFk4gxzoP/xMc547IpZ5rKroZXpw43UWgcTyKGPl4=\"",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ncp_version",
+      "value": "v2",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ncp_cntry",
+      "value": "KR",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1751093715.906621,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ncp_region",
+      "value": "KR",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1759647320.118306,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ncp_platform",
+      "value": "VPC",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1759679722,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "B7B584B5E41EBD059A665315BAFC4C04",
+      "domain": "beta-console.ncloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_1RGG8824TT",
+      "value": "GS2.1.s1751007289$o1$g1$t1751007321$j28$l0$h0",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1785567321.305242,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_RPP4Z7GKZJ",
+      "value": "GS2.1.s1751007289$o1$g1$t1751007321$j28$l0$h0",
+      "domain": ".ncloud.com",
+      "path": "/",
+      "expires": 1785567321.312584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://beta-console.ncloud.com",
+      "localStorage": [
+        {
+          "name": "8371c100-287f-11eb-a413-246e966ebeb4-welcome-vpcOpen",
+          "value": "true"
+        },
+        {
+          "name": "8371c100-287f-11eb-a413-246e966ebeb4",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
