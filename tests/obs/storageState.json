@@ -260,41 +260,5 @@
       "secure": false,
       "sameSite": "Lax"
     }
-  ],
-  "origins": [
-    {
-      "origin": "https://www.gov-ncloud.com",
-      "localStorage": [
-        {
-          "name": "NACT",
-          "value": "1751340303871"
-        },
-        {
-          "name": "NAC",
-          "value": "erChDYhAkNKMA"
-        },
-        {
-          "name": "_rtetUserId",
-          "value": "[{\"path\":\"/\",\"uid\":\"ceqBcBd07\"}]"
-        },
-        {
-          "name": "NA_NACC",
-          "value": "erChDYhAkNKMA"
-        }
-      ]
-    },
-    {
-      "origin": "https://console.gov-ncloud.com",
-      "localStorage": [
-        {
-          "name": "136fad30-2876-11eb-9e6d-a0369fafc598-welcome",
-          "value": "true"
-        },
-        {
-          "name": "136fad30-2876-11eb-9e6d-a0369fafc598",
-          "value": "[]"
-        }
-      ]
-    }
   ]
 }

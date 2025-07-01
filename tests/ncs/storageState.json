@@ -170,20 +170,5 @@
       "secure": false,
       "sameSite": "Lax"
     }
-  ],
-  "origins": [
-    {
-      "origin": "https://beta-console.ncloud.com",
-      "localStorage": [
-        {
-          "name": "8371c100-287f-11eb-a413-246e966ebeb4-welcome-vpcOpen",
-          "value": "true"
-        },
-        {
-          "name": "8371c100-287f-11eb-a413-246e966ebeb4",
-          "value": "[]"
-        }
-      ]
-    }
   ]
 }

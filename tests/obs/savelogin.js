@@ -5,15 +5,6 @@ const {chromium} = require ('playwright');
   const context = await browser.newContext ();
   const page = await context.newPage ();
 
-  /////민간 베타
-  // await page.goto ('https://beta-auth.ncloud.com/login');
-
-  /////금융 베타
-  // await page.goto ('https://beta-auth.fin-ncloud.com/login');
-
-  /////공공 베타
-  // await page.goto ('https://beta-auth.gov-ncloud.com/login');
-
   /////민간 리얼
   // await page.goto('https://auth.ncloud.com/login');
 
